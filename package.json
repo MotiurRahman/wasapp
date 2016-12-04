@@ -1,0 +1,29 @@
+{
+  "name": "wasapp",
+  "version": "1.0.0",
+  "description": "This is my deoploy app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "motiurApp"
+  ],
+  "author": "Motiur",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.3.3",
+    "ejs": "^2.5.3",
+    "express": "^4.14.0",
+    "express-ejs-layouts": "^2.2.0",
+    "express-session": "^1.14.2",
+    "jsonwebtoken": "^7.1.9",
+    "mongodb": "^2.2.12",
+    "mongoose": "^4.7.1",
+    "morgan": "^1.7.0",
+    "node-restful": "^0.2.5",
+    "path": "^0.12.7"
+  }
+}
